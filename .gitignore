@@ -8,7 +8,7 @@ node_modules/
 .DS_Store
 
 #confidential files
-.env
 *.key
 *.pem
 *.secret
+config.bat
